@@ -38,5 +38,4 @@ The goal of this project is to demonstrate the **basic machine learning workflow
 * Evaluating model performance
 
 
-If you want, I can also show you **how top ML engineers write README so your GitHub project looks 10x more professional to recruiters.**
 
